@@ -2,7 +2,7 @@
 I've added INT8 dtype code to the export.py code in the ultralytics yolov5 repository.   
 ---
 # Setup
-**1. Download TensorRT**
+**1. Download TensorRT**  
 (Download Link)(https://developer.nvidia.com/tensorrt/download/10x)
 
 # How To Use
