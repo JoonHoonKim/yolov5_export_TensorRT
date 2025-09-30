@@ -15,3 +15,5 @@ python export.py --half
 ```python
 python export.py --int8
 ```
+---
+If you want to export INT8 dtype, Please add more calib data in calib dir at least two-hundreds
